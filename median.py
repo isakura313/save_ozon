@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 print("введите название файла без расширения, который вы перенесли в эту папку")
 
-fileName = input("ВИмя вашего файла: ")
+fileName = input("Имя вашего файла: ")
 fileName = fileName + ".txt"
 f = open(fileName, "r");
 file_content = f.read()
@@ -25,6 +25,10 @@ for i in range(N - 1):
 			list_num[j], list_num[j + 1] = list_num[j + 1], list_num[j]
 print(list_num)
 
+
+
+li = [1, 3, 4, 5 , 6, 7, 9]
+print(li[1]);
 def average(arr):
 	sum = 0
 	for i in range(len(list_num)):
