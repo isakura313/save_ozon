@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03ed027b-a84c-4e60-a99f-cdd86b4e99aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdcsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perceptron.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/median.py" beforeDir="false" afterPath="$PROJECT_DIR$/median.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/linear.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/perceptron.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linear">
+  <component name="RunManager" selected="Python.perceptron">
     <configuration name="dia" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ozon_neuro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +105,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pdcsv" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ozon_neuro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/ozon_neuro/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdcsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python">
+      <module name="ozon_neuro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/ozon_neuro/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perceptron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="prac" type="PythonConfigurationType" factoryName="Python">
       <module name="ozon_neuro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +172,8 @@
       <item itemvalue="Python.median" />
       <item itemvalue="Python.prac" />
       <item itemvalue="Python.linear" />
+      <item itemvalue="Python.pdcsv" />
+      <item itemvalue="Python.perceptron" />
       <item itemvalue="Python.dia" />
     </list>
   </component>
