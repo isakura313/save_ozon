@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03ed027b-a84c-4e60-a99f-cdd86b4e99aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pdcsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/as.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
